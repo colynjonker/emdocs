@@ -2,7 +2,7 @@
 	<div class="ez-academy__body">
 		<main class="master">
 	<h2 class="title">eMagiz Academy</h2>
-			<h1 class="title">Version 2.0</h1>
+			<h1 class="title">Version 3.0</h1>
 	 <p>
        This course will focus on monitoring options when running (part of) your messaging solution on-premise. When running on-premise, you can access the logs on disk. These logs can sometimes aid in determining why there are troubles with setting up the proper connection between the on-premise runtime and the JMS instance running in the cloud.
         </br></br>
